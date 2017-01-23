@@ -1,0 +1,155 @@
+*{
+    font-family: "Times New Roman", Times, serif;
+}
+body{
+    min-height: 500px;
+    background-color: rgb(227, 174, 249);
+    background-image: url("../img/huellitas.jpg");
+    background-repeat: repeat-y;
+    background-position: right;
+}
+
+
+header{
+    background-color: rgb(69, 34, 69);;
+    height: 200px;
+    /*background-image: url("../img/arca3.jpg");*/
+      color:  rgb(227, 174, 249);/* rgb(69, 34, 69);*/
+}
+
+.logo{
+    height: 100%;
+    width: auto;
+}
+
+h1{
+
+    /*text-align: center;*/
+
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: oblique;
+    font-weight: bolder;
+    display: inline;
+    color:  rgb(227, 174, 249);/* rgb(69, 34, 69);*/
+    text-align: center;
+}
+
+.datos{
+  position: absolute;
+  top: 100px;
+  left:80%;
+    float: right;
+    width: 20%;
+    height: 100%;
+    color: /*rgb(96, 4, 124);*/
+    text-align: right;
+    font-weight: bold;
+    vertical-align:bottom;
+}
+
+
+
+.titulo{
+    text-align: center;
+}
+
+
+footer{
+    width: 100%;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    height: 150px;
+    background-color:rgb(69, 34, 69);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.referencias{
+  display: inline;
+  text-align: center;
+  height: 30px;
+
+}
+.socialnetwork{
+  height: 50px;
+
+}
+
+.logobar{
+    height: 100%;
+    width: auto;
+}
+
+
+/* */
+#carousel-example-generic{
+    background-color: rgb(227, 174, 249); /*black;*/
+}
+img{
+  /*width: 100%;*/
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/*******************************/
+.blanco{
+  margin: 0px;
+  background-color: white;
+  text-align: center;
+}
+.encabezado{
+  height: 100px;
+  width: auto;
+}
+
+h3{
+  margin-right: 20px;
+}
+
+.contenido{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.puppy{
+  width: 200px;
+  height: auto;
+  border: purple solid 2px;
+  float: left;
+}
+
+.izq{
+  float: left;
+  padding-left: 5%;
+  padding-right: 5%;
+
+}
+
+.der{
+  width: 50%;
+  color: rgb(0, 0, 0);
+  /*font-weight: bold;*/
+  padding-left: 20px;
+
+}
+
+
+/***************************/
+
+.puppy2{
+  width: 200px;
+  height: auto;
+  border: purple solid 2px;
+
+
+}
+
+.margenes{
+  margin: 10px;
+}
+
+.renglon{
+  display: inline;
+}

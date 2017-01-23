@@ -1,0 +1,16 @@
+html, body{
+  height: 100%;
+}
+
+footer{
+  margin: 20px;
+}
+
+.footer{
+background: #ccc;
+}
+
+p{
+  text-align: center;
+  padding: 20px;
+}
